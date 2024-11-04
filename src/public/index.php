@@ -13,7 +13,7 @@
       <tr>
         <td>Email（必須）</td>
         <td><input name="email"></td>
-      </tr>ß
+      </tr>
 
       <tr>
         <td>お問い合わせ内容（必須）</td>

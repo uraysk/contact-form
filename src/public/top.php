@@ -1,2 +1,2 @@
 <?php
-echo "Top Page";
+echo "TOP PAGE";
